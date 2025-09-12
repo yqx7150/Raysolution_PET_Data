@@ -1,1 +1,2 @@
 # RAYSOLUTION_PETdata
+The RAYSOLUTION_PETdata dataset includes the Double Tracer Separation Dataset and self-attenuation correction data. The Double Tracer Separation Dataset comprises data related to two tracers (FDG and DOPA) for both the brain and body, as well as data related to two fused tracers; the self-attenuation correction data includes pre-attenuation and post-attenuation data from several patients.
