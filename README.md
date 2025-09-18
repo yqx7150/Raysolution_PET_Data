@@ -4,7 +4,7 @@ The RAYSOLUTION_PETdata dataset includes the Double Tracer Separation Dataset an
 ## Other Related Projects
   * ALL-PET: A Low-resource and Low-shot PET Foundation Model in Projection Domain  [<font size=5>**[Paper]**</font>](https://github.com/yqx7150/RAYSOLUTION_PETdata/blob/main/Paper/ALL_PET_Finalx.pdf)
 
-  * Diffusion Transformer Model With Compact Prior for Low-dose PET Reconstruction [<font size=5>**[Paper]**</font>](https://github.com/yqx7150/RAYSOLUTION_PETdata/blob/main/Paper/DTM_Final.pdf)
+  * Diffusion Transformer Model With Compact Prior for Low-dose PET Reconstruction [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2407.00944)
 
 * PET Tracer Separation Using Conditional Diffusion Transformer with Multi-latent Space Learning[<font size=5>**[Paper]**</font>](https://github.com/yqx7150/RAYSOLUTION_PETdata/blob/main/Paper/MS-CDT_final.pdf)
 
