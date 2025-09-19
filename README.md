@@ -11,3 +11,5 @@ The RAYSOLUTION_PETdata dataset includes the Double Tracer Separation Dataset an
 * Diffusion Transformer Meets Random Masks: An Advanced PET Reconstruction Framework [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2503.08339)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DREAM)
 
 * Synthetic CT Generation via Variant Invertible Network for Brain PET Attenuation Correction [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10666843) [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PET_AC_sCT)
+
+* Double-Constraint Diffusion Model with Nuclear Regularization for Ultra-low-dose PET Reconstruction [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2509.00395) [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DCDM)
