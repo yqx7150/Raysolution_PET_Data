@@ -12,4 +12,4 @@ The RAYSOLUTION_PETdata dataset includes the Double Tracer Separation Dataset an
 
 * Synthetic CT Generation via Variant Invertible Network for Brain PET Attenuation Correction [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10666843)
 
-* PET_AC_sCT[<font size=5>**[Code]**</font>](https://github.com/yqx7150/PET_AC_sCT)
+* PET_AC_sCT [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PET_AC_sCT)
