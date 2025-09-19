@@ -8,6 +8,6 @@ The RAYSOLUTION_PETdata dataset includes the Double Tracer Separation Dataset an
 
 * PET Tracer Separation Using Conditional Diffusion Transformer with Multi-latent Space Learning [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2506.16934#:~:text=In%20this%20study%2C%20a%20multi-latent%20space%20guided%20texture,model%20%28MS-CDT%29%20is%20proposed%20for%20PET%20tracer%20separation.)
 
-* Diffusion Transformer Meets Random Masks: AnAdvanced PET Reconstruction Framework [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2503.08339)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DREAM)
+* Diffusion Transformer Meets Random Masks: An Advanced PET Reconstruction Framework [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2503.08339)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DREAM)
 
 * Synthetic CT Generation via Variant Invertible Network for Brain PET Attenuation Correction [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10666843) [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PET_AC_sCT)
