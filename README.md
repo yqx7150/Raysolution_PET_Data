@@ -15,3 +15,5 @@ The RAYSOLUTION_PETdata dataset includes the Double Tracer Separation Dataset an
 * Double-Constraint Diffusion Model with Nuclear Regularization for Ultra-low-dose PET Reconstruction [<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2509.00395) [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DCDM)
 
 * RED: Residual estimation diffusion for low-dose PET sinogram reconstruction [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001057) [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RED)
+
+* Double-Constraint Diffusion Model with Nuclear Regularization for Ultra-low-dose PET Reconstruction  [<font size=5>**[Paper]**</font>](https://arxiv.org/pdf/2509.00395)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DCDM)
